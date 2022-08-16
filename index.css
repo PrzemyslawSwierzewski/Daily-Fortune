@@ -1,0 +1,28 @@
+body{
+  background-color: rgb(132, 0, 255);
+  color: rgb(219, 186, 0);
+}
+h1{
+  font-size: 80px;
+  text-align: center;
+  margin-left: -2vw;
+  margin-bottom: -5vh;
+}
+#button1{
+  background-color: rgb(219, 186, 0);
+  border-radius: 18px;
+  width: 20vw;
+  height: 5vh;
+  color: black;
+  border: none;
+  cursor: pointer;
+  margin:auto;
+  transition: background-color 0.15s;
+  display: block;
+  margin: auto;
+  
+}
+#Fortune{
+  font-size: x-large;
+  text-align: center;
+}
